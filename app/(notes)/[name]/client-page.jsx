@@ -154,7 +154,7 @@ const UserPage = () => {
 									{greetings}
 								</h1>
 								<p className="text-text-100">
-									Let's continue with the notes
+									Let&apos;s continue with the notes
 								</p>
 							</div>
 						)}

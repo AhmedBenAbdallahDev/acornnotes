@@ -44,7 +44,7 @@ const Notes = ({ params }) => {
 	if (typeof currentNote === "undefined") {
 		currentNote = {
 			id: 0,
-			title: "It's not a bug it's a feature 🐞",
+			title: "It&apos;s not a bug it&apos;s a feature 🐞",
 			createdDate: new Date(),
 			lastModifiedDate: new Date(),
 			content: "TODO",
